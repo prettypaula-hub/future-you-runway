@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Future You — Cashflow Forecaster</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-top">
+        <div>
+          <h1>💰 Future You</h1>
+          <p class="subtitle">A look at where your money is likely headed next.</p>
+        </div>
+        <div class="account-selector-wrap">
+          <label for="account-select">Client</label>
+          <select id="account-select"></select>
+        </div>
+      </div>
+      <span id="data-source-badge" class="badge"></span>
+      <div id="history-warning" class="history-warning hidden"></div>
+    </header>
+
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="overview">Overview</button>
+      <button class="tab-btn" data-tab="recurring">Recurring Payments</button>
+      <button class="tab-btn" data-tab="whatif">What If?</button>
+      <button class="tab-btn" data-tab="methodology">Methodology</button>
+    </nav>
+
+    <section id="loading" class="loading">Loading your forecast…</section>
+    <section id="error" class="hidden error"></section>
+
+    <div id="content" class="hidden">
+
+      <!-- OVERVIEW TAB -->
+      <section class="tab-page active" id="page-overview">
+        <div class="summary-cards" id="summary-cards"></div>
+        <div class="chart-card">
+          <h2>Projected Balance — Next <span id="horizon-label"></span> Days</h2>
+          <canvas id="forecastChart"></canvas>
+        </div>
+      </section>
+
+      <!-- RECURRING TAB -->
+      <section class="tab-page" id="page-recurring">
+        <div class="recurring-card">
+          <h2>Detected Recurring Payments</h2>
+          <p class="card-intro">Automatically detected by looking for payments with a consistent amount and a consistent interval.</p>
+          <table id="recurring-table">
+            <thead>
+              <tr><th>Description</th><th>Amount</th><th>Every ~</th><th>Occurrences</th></tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- WHAT IF TAB -->
+      <section class="tab-page" id="page-whatif">
+        <div class="whatif-card">
+          <h2>Can I Afford This?</h2>
+          <p class="card-intro">Enter a hypothetical one-off expense to see how it would change your risk of running out of money.</p>
+          <form id="whatif-form">
+            <div class="whatif-inputs">
+              <label>
+                Amount (R)
+                <input type="number" id="whatif-amount" min="0" step="50" value="1000" required>
+              </label>
+              <label>
+                In how many days?
+                <input type="number" id="whatif-day" min="1" max="30" value="10" required>
+              </label>
+              <button type="submit">Run scenario</button>
+            </div>
+          </form>
+          <div id="whatif-result" class="hidden">
+            <div class="summary-cards" id="whatif-summary-cards"></div>
+            <canvas id="whatifChart"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <!-- METHODOLOGY TAB -->
+      <section class="tab-page" id="page-methodology">
+        <div class="assumptions-card">
+          <h2>Assumptions &amp; Limitations</h2>
+          <ul id="assumptions-list"></ul>
+          <p class="disclaimer">This is a statistical simulation based on historical patterns, not a guarantee of future outcomes.</p>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

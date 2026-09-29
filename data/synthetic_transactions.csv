@@ -1,0 +1,210 @@
+transactionDate,description,type,amount,runningBalance
+2026-01-01,Res Rent,DEBIT,3200.0,600.0
+2026-01-01,ATM Withdrawal,DEBIT,20.64,579.36
+2026-01-02,Card Purchase - Woolworths,DEBIT,51.43,527.93
+2026-01-03,Card Purchase - Uber Eats,DEBIT,28.68,499.25
+2026-01-05,Netflix Subscription,DEBIT,199.0,300.25
+2026-01-06,Card Purchase - Checkers,DEBIT,26.35,273.9
+2026-01-08,Spotify Premium,DEBIT,79.99,193.91
+2026-01-08,Card Purchase - Uber Eats,DEBIT,25.29,168.62
+2026-01-10,Card Purchase - Checkers,DEBIT,75.78,92.84
+2026-01-12,Card Purchase - Woolworths,DEBIT,66.61,26.22
+2026-01-13,Card Purchase - Campus Cafe,DEBIT,99.71,-73.49
+2026-01-16,Card Purchase - Checkers,DEBIT,18.6,-92.08
+2026-01-19,Card Purchase - Uber Eats,DEBIT,20.84,-112.92
+2026-01-20,Cellphone Contract,DEBIT,499.0,-611.92
+2026-01-20,ATM Withdrawal,DEBIT,18.32,-630.24
+2026-01-22,Client Payment / Side Hustle,CREDIT,3944.33,3314.09
+2026-01-22,ATM Withdrawal,DEBIT,40.54,3273.55
+2026-01-23,Card Purchase - Woolworths,DEBIT,25.33,3248.22
+2026-01-25,Gym Membership,DEBIT,350.0,2898.22
+2026-01-25,ATM Withdrawal,DEBIT,37.97,2860.25
+2026-01-26,Card Purchase - Woolworths,DEBIT,20.13,2840.12
+2026-01-27,Card Purchase - Woolworths,DEBIT,46.15,2793.97
+2026-01-28,Card Purchase - Checkers,DEBIT,28.84,2765.13
+2026-01-30,Card Purchase - Woolworths,DEBIT,8.7,2756.43
+2026-01-31,Card Purchase - Checkers,DEBIT,87.58,2668.86
+2026-02-01,Res Rent,DEBIT,3200.0,-531.14
+2026-02-02,Card Purchase - Campus Cafe,DEBIT,44.88,-576.02
+2026-02-03,ATM Withdrawal,DEBIT,9.32,-585.35
+2026-02-04,Card Purchase - Checkers,DEBIT,28.53,-613.87
+2026-02-05,Netflix Subscription,DEBIT,199.0,-812.87
+2026-02-06,Card Purchase - Uber Eats,DEBIT,42.36,-855.23
+2026-02-07,Card Purchase - Checkers,DEBIT,35.37,-890.6
+2026-02-08,Spotify Premium,DEBIT,79.99,-970.59
+2026-02-11,Card Purchase - Woolworths,DEBIT,28.03,-998.62
+2026-02-13,Card Purchase - Campus Cafe,DEBIT,26.81,-1025.43
+2026-02-14,Card Purchase - Clicks,DEBIT,59.59,-1085.02
+2026-02-16,Client Payment / Side Hustle,CREDIT,4009.02,2924.0
+2026-02-16,Card Purchase - Uber Eats,DEBIT,29.15,2894.86
+2026-02-17,ATM Withdrawal,DEBIT,31.48,2863.38
+2026-02-19,ATM Withdrawal,DEBIT,15.21,2848.17
+2026-02-20,Cellphone Contract,DEBIT,499.0,2349.17
+2026-02-20,Card Purchase - Woolworths,DEBIT,33.39,2315.78
+2026-02-22,Card Purchase - Checkers,DEBIT,27.09,2288.69
+2026-02-23,Card Purchase - Clicks,DEBIT,24.94,2263.75
+2026-02-25,Gym Membership,DEBIT,350.0,1913.75
+2026-02-25,Card Purchase - Checkers,DEBIT,46.23,1867.52
+2026-02-26,Card Purchase - Uber Eats,DEBIT,7.8,1859.71
+2026-02-27,Card Purchase - Uber Eats,DEBIT,29.88,1829.84
+2026-02-28,Card Purchase - Woolworths,DEBIT,18.04,1811.8
+2026-03-01,Res Rent,DEBIT,3200.0,-1388.2
+2026-03-01,Card Purchase - Checkers,DEBIT,41.24,-1429.44
+2026-03-05,Netflix Subscription,DEBIT,199.0,-1628.44
+2026-03-05,Card Purchase - Clicks,DEBIT,27.93,-1656.37
+2026-03-07,Card Purchase - Clicks,DEBIT,11.47,-1667.83
+2026-03-08,Spotify Premium,DEBIT,79.99,-1747.82
+2026-03-08,Card Purchase - Woolworths,DEBIT,64.29,-1812.11
+2026-03-10,Card Purchase - Checkers,DEBIT,18.32,-1830.43
+2026-03-12,Card Purchase - Woolworths,DEBIT,38.22,-1868.65
+2026-03-13,Card Purchase - Checkers,DEBIT,77.28,-1945.93
+2026-03-15,ATM Withdrawal,DEBIT,12.0,-1957.93
+2026-03-17,Client Payment / Side Hustle,CREDIT,2829.31,871.38
+2026-03-18,Card Purchase - Campus Cafe,DEBIT,31.7,839.68
+2026-03-19,Card Purchase - Clicks,DEBIT,39.12,800.55
+2026-03-20,Cellphone Contract,DEBIT,499.0,301.55
+2026-03-20,Card Purchase - Checkers,DEBIT,38.43,263.12
+2026-03-21,Card Purchase - Checkers,DEBIT,38.83,224.29
+2026-03-22,Card Purchase - Campus Cafe,DEBIT,18.44,205.85
+2026-03-25,Gym Membership,DEBIT,350.0,-144.15
+2026-03-25,ATM Withdrawal,DEBIT,51.14,-195.29
+2026-03-26,ATM Withdrawal,DEBIT,43.39,-238.68
+2026-03-27,Card Purchase - Checkers,DEBIT,50.56,-289.24
+2026-03-29,Card Purchase - Campus Cafe,DEBIT,20.94,-310.18
+2026-03-30,Card Purchase - Clicks,DEBIT,34.93,-345.11
+2026-03-31,Card Purchase - Checkers,DEBIT,68.54,-413.66
+2026-04-01,Res Rent,DEBIT,3200.0,-3613.66
+2026-04-01,Card Purchase - Campus Cafe,DEBIT,65.57,-3679.23
+2026-04-02,Card Purchase - Woolworths,DEBIT,22.87,-3702.09
+2026-04-03,Card Purchase - Campus Cafe,DEBIT,76.8,-3778.89
+2026-04-05,Netflix Subscription,DEBIT,199.0,-3977.89
+2026-04-05,Card Purchase - Checkers,DEBIT,15.63,-3993.53
+2026-04-07,Card Purchase - Woolworths,DEBIT,20.88,-4014.4
+2026-04-08,Spotify Premium,DEBIT,79.99,-4094.39
+2026-04-09,Card Purchase - Uber Eats,DEBIT,33.42,-4127.81
+2026-04-11,Client Payment / Side Hustle,CREDIT,5316.11,1188.3
+2026-04-12,Card Purchase - Clicks,DEBIT,42.31,1145.99
+2026-04-16,Card Purchase - Checkers,DEBIT,40.82,1105.16
+2026-04-18,Card Purchase - Campus Cafe,DEBIT,54.82,1050.34
+2026-04-20,Cellphone Contract,DEBIT,499.0,551.34
+2026-04-21,Card Purchase - Campus Cafe,DEBIT,38.35,512.99
+2026-04-24,Card Purchase - Woolworths,DEBIT,37.07,475.92
+2026-04-25,Gym Membership,DEBIT,350.0,125.92
+2026-04-25,Card Purchase - Campus Cafe,DEBIT,15.11,110.82
+2026-04-26,Card Purchase - Campus Cafe,DEBIT,33.6,77.21
+2026-04-27,Card Purchase - Checkers,DEBIT,49.4,27.81
+2026-04-29,ATM Withdrawal,DEBIT,79.69,-51.88
+2026-05-01,Res Rent,DEBIT,3200.0,-3251.88
+2026-05-02,Card Purchase - Campus Cafe,DEBIT,6.37,-3258.25
+2026-05-04,Client Payment / Side Hustle,CREDIT,4099.65,841.4
+2026-05-04,ATM Withdrawal,DEBIT,37.57,803.83
+2026-05-05,Netflix Subscription,DEBIT,199.0,604.83
+2026-05-05,Card Purchase - Clicks,DEBIT,13.91,590.92
+2026-05-08,Spotify Premium,DEBIT,79.99,510.93
+2026-05-09,Card Purchase - Woolworths,DEBIT,18.79,492.14
+2026-05-11,Card Purchase - Woolworths,DEBIT,23.33,468.81
+2026-05-12,Card Purchase - Campus Cafe,DEBIT,29.87,438.93
+2026-05-13,Card Purchase - Campus Cafe,DEBIT,55.08,383.86
+2026-05-14,Card Purchase - Checkers,DEBIT,16.58,367.28
+2026-05-15,ATM Withdrawal,DEBIT,78.63,288.65
+2026-05-17,Card Purchase - Checkers,DEBIT,12.43,276.23
+2026-05-20,Cellphone Contract,DEBIT,499.0,-222.77
+2026-05-22,Card Purchase - Clicks,DEBIT,86.94,-309.71
+2026-05-23,ATM Withdrawal,DEBIT,22.32,-332.03
+2026-05-24,Card Purchase - Clicks,DEBIT,31.38,-363.41
+2026-05-25,Gym Membership,DEBIT,350.0,-713.41
+2026-05-27,Card Purchase - Uber Eats,DEBIT,64.41,-777.82
+2026-05-29,ATM Withdrawal,DEBIT,19.95,-797.78
+2026-05-30,Card Purchase - Uber Eats,DEBIT,51.97,-849.75
+2026-05-31,Client Payment / Side Hustle,CREDIT,3968.94,3119.19
+2026-05-31,Card Purchase - Campus Cafe,DEBIT,38.9,3080.28
+2026-06-01,Res Rent,DEBIT,3200.0,-119.72
+2026-06-01,Card Purchase - Uber Eats,DEBIT,30.02,-149.74
+2026-06-02,Card Purchase - Clicks,DEBIT,17.42,-167.16
+2026-06-03,Card Purchase - Uber Eats,DEBIT,30.92,-198.07
+2026-06-05,Netflix Subscription,DEBIT,199.0,-397.07
+2026-06-05,Card Purchase - Campus Cafe,DEBIT,33.49,-430.57
+2026-06-06,Card Purchase - Clicks,DEBIT,9.19,-439.76
+2026-06-07,Card Purchase - Uber Eats,DEBIT,105.35,-545.11
+2026-06-08,Spotify Premium,DEBIT,79.99,-625.1
+2026-06-08,Card Purchase - Clicks,DEBIT,17.42,-642.52
+2026-06-09,Card Purchase - Uber Eats,DEBIT,39.86,-682.38
+2026-06-13,ATM Withdrawal,DEBIT,86.65,-769.03
+2026-06-14,Card Purchase - Clicks,DEBIT,34.27,-803.3
+2026-06-15,Card Purchase - Clicks,DEBIT,19.15,-822.45
+2026-06-16,Card Purchase - Clicks,DEBIT,45.57,-868.02
+2026-06-17,ATM Withdrawal,DEBIT,17.67,-885.69
+2026-06-18,Card Purchase - Uber Eats,DEBIT,77.4,-963.08
+2026-06-19,Card Purchase - Uber Eats,DEBIT,43.96,-1007.05
+2026-06-20,Cellphone Contract,DEBIT,499.0,-1506.05
+2026-06-20,Card Purchase - Woolworths,DEBIT,18.53,-1524.58
+2026-06-23,Card Purchase - Clicks,DEBIT,14.88,-1539.46
+2026-06-24,ATM Withdrawal,DEBIT,36.95,-1576.4
+2026-06-25,Gym Membership,DEBIT,350.0,-1926.4
+2026-06-26,Client Payment / Side Hustle,CREDIT,4352.07,2425.66
+2026-06-28,Card Purchase - Campus Cafe,DEBIT,21.16,2404.51
+2026-06-29,Card Purchase - Clicks,DEBIT,23.93,2380.58
+2026-07-01,Res Rent,DEBIT,3200.0,-819.42
+2026-07-04,Card Purchase - Woolworths,DEBIT,7.49,-826.91
+2026-07-05,Netflix Subscription,DEBIT,199.0,-1025.91
+2026-07-06,Card Purchase - Campus Cafe,DEBIT,69.5,-1095.41
+2026-07-08,Spotify Premium,DEBIT,79.99,-1175.4
+2026-07-09,Card Purchase - Clicks,DEBIT,50.04,-1225.44
+2026-07-12,Card Purchase - Clicks,DEBIT,28.24,-1253.67
+2026-07-13,Card Purchase - Woolworths,DEBIT,47.16,-1300.83
+2026-07-15,ATM Withdrawal,DEBIT,27.04,-1327.87
+2026-07-16,Card Purchase - Checkers,DEBIT,43.73,-1371.6
+2026-07-17,Card Purchase - Campus Cafe,DEBIT,10.41,-1382.01
+2026-07-19,ATM Withdrawal,DEBIT,31.21,-1413.22
+2026-07-20,Cellphone Contract,DEBIT,499.0,-1912.22
+2026-07-21,Card Purchase - Uber Eats,DEBIT,26.46,-1938.68
+2026-07-22,Card Purchase - Woolworths,DEBIT,19.31,-1957.99
+2026-07-23,Client Payment / Side Hustle,CREDIT,5458.14,3500.14
+2026-07-23,Card Purchase - Woolworths,DEBIT,41.17,3458.97
+2026-07-25,Gym Membership,DEBIT,350.0,3108.97
+2026-07-25,Card Purchase - Uber Eats,DEBIT,21.78,3087.19
+2026-07-26,ATM Withdrawal,DEBIT,22.82,3064.37
+2026-07-27,Card Purchase - Uber Eats,DEBIT,34.7,3029.67
+2026-07-30,Card Purchase - Checkers,DEBIT,27.49,3002.18
+2026-07-31,Card Purchase - Woolworths,DEBIT,10.98,2991.2
+2026-08-01,Res Rent,DEBIT,3200.0,-208.8
+2026-08-02,Card Purchase - Campus Cafe,DEBIT,11.65,-220.45
+2026-08-03,Card Purchase - Clicks,DEBIT,15.1,-235.55
+2026-08-05,Netflix Subscription,DEBIT,199.0,-434.55
+2026-08-06,Card Purchase - Clicks,DEBIT,29.84,-464.39
+2026-08-07,Card Purchase - Woolworths,DEBIT,33.88,-498.27
+2026-08-08,Spotify Premium,DEBIT,79.99,-578.26
+2026-08-12,Card Purchase - Uber Eats,DEBIT,11.03,-589.3
+2026-08-13,Card Purchase - Clicks,DEBIT,30.53,-619.83
+2026-08-14,Card Purchase - Uber Eats,DEBIT,33.04,-652.86
+2026-08-15,Client Payment / Side Hustle,CREDIT,4155.01,3502.15
+2026-08-15,ATM Withdrawal,DEBIT,19.03,3483.12
+2026-08-18,Card Purchase - Uber Eats,DEBIT,16.38,3466.75
+2026-08-20,Cellphone Contract,DEBIT,499.0,2967.75
+2026-08-21,ATM Withdrawal,DEBIT,16.64,2951.1
+2026-08-24,Card Purchase - Clicks,DEBIT,27.11,2923.99
+2026-08-25,Gym Membership,DEBIT,350.0,2573.99
+2026-08-26,Card Purchase - Checkers,DEBIT,28.29,2545.71
+2026-08-30,Card Purchase - Woolworths,DEBIT,11.27,2534.44
+2026-09-01,Res Rent,DEBIT,3200.0,-665.56
+2026-09-01,Card Purchase - Woolworths,DEBIT,148.89,-814.46
+2026-09-02,ATM Withdrawal,DEBIT,48.9,-863.35
+2026-09-03,Card Purchase - Checkers,DEBIT,19.4,-882.75
+2026-09-04,Card Purchase - Checkers,DEBIT,24.52,-907.27
+2026-09-05,Netflix Subscription,DEBIT,199.0,-1106.27
+2026-09-06,Card Purchase - Clicks,DEBIT,38.61,-1144.87
+2026-09-08,Spotify Premium,DEBIT,79.99,-1224.86
+2026-09-09,Card Purchase - Clicks,DEBIT,21.0,-1245.86
+2026-09-12,Card Purchase - Checkers,DEBIT,61.29,-1307.15
+2026-09-13,ATM Withdrawal,DEBIT,15.14,-1322.28
+2026-09-14,Card Purchase - Uber Eats,DEBIT,14.41,-1336.69
+2026-09-16,Client Payment / Side Hustle,CREDIT,4893.97,3557.28
+2026-09-17,Card Purchase - Campus Cafe,DEBIT,90.02,3467.26
+2026-09-20,Cellphone Contract,DEBIT,499.0,2968.26
+2026-09-20,Card Purchase - Uber Eats,DEBIT,27.15,2941.11
+2026-09-21,Card Purchase - Campus Cafe,DEBIT,46.61,2894.5
+2026-09-22,Card Purchase - Clicks,DEBIT,27.47,2867.03
+2026-09-24,Card Purchase - Uber Eats,DEBIT,74.19,2792.84
+2026-09-25,Gym Membership,DEBIT,350.0,2442.84
+2026-09-26,Card Purchase - Woolworths,DEBIT,49.54,2393.31
+2026-09-27,ATM Withdrawal,DEBIT,69.81,2323.49
