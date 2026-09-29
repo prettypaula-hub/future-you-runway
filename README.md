@@ -75,6 +75,41 @@ bundled synthetic dataset, so the app is always demoable. Which source was
 used is reported explicitly in the API response (`data_source` field) —
 never silently substituted without saying so.
 
+🧾 Development Workflow
+
+The project follows a simple development workflow:
+
+1. Create a feature branch
+git checkout -b feature/your-feature-name
+2. Make your changes
+
+Update the relevant backend, forecasting or frontend files.
+
+3. Test locally
+
+Start the Flask backend:
+
+python backend/app.py
+
+Then test the application through the frontend and verify the relevant API endpoints.
+
+For example:
+
+GET /api/health
+GET /api/accounts
+GET /api/forecast
+POST /api/whatif
+4. Review your changes
+
+Check that:
+
+API credentials are not exposed
+.env is not tracked by Git
+forecasts return valid results
+recurring payments are detected correctly
+What-If scenarios update the forecast
+frontend charts and tables display correctly
+
 ## Setup & running it
 
 ### 1. Backend
