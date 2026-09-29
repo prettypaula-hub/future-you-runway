@@ -141,3 +141,10 @@ python visualize.py                 # saves a forecast chart to output/
 ## License
 
 MIT — see [`LICENSE`](./LICENSE).
+
+## 🎥 Demo
+
+Watch **Future You Runway** in action:
+
+[▶️ Watch the demo on YouTube](https://youtu.be/40xSvLMAS9o)
+
